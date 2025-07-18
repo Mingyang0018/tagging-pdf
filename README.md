@@ -39,15 +39,5 @@ streamlit run streamlit_app.py
 
 ---
 
-### Tech Stack
-
-* Python 3.10+
-* [Streamlit](https://streamlit.io/)
-* [PyMuPDF (fitz)](https://pymupdf.readthedocs.io/en/latest/)
-* [pandas](https://pandas.pydata.org/)
-* [streamlit-ace](https://github.com/okld/streamlit-ace)
-
----
-
 ### WebAPP
 ![image](./image/gui.png)
