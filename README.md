@@ -1,6 +1,6 @@
 ### PDF Tagging Tool
 
-This is a lightweight **Streamlit web application** for uploading and tagging PDF documents. Ideal for auditors, reviewers, or analysts who want to annotate and export text sections in JSON or CSV formats.
+This is a lightweight **Streamlit web application** for uploading and tagging PDF documents. Ideal for auditors, reviewers, or analysts who want to annotate and export text sections in JSON, CSV or DOCX formats.
 
 ---
 
@@ -36,6 +36,7 @@ streamlit run streamlit_app.py
 
   * **JSON** (structured page-wise)
   * **CSV** (rows: page\_number, text)
+  * **DOCX** (editable Word document)
 
 ---
 
