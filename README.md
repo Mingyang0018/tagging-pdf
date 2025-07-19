@@ -15,6 +15,9 @@ conda activate tagging-pdf
 
 # 3. Install required packages
 pip install -r requirements.txt
+
+# 4. Navigate to the path
+cd tagging-pdf
 ```
 
 ---
