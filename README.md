@@ -13,11 +13,11 @@ conda create -n tagging-pdf python=3.12 -y
 # 2. Activate the environment
 conda activate tagging-pdf
 
-# 3. Install required packages
-pip install -r requirements.txt
-
-# 4. Navigate to the path
+# 3. Navigate to the path
 cd tagging-pdf
+
+# 4. Install required packages
+pip install -r requirements.txt
 ```
 
 ---
